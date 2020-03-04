@@ -1,3 +1,4 @@
+#New changes to the kafka consumer
 from kafka import KafkaConsumer
 from json import loads
 
